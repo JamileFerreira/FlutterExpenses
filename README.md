@@ -1,5 +1,7 @@
 # expenses
 
+![](/home/jamile/Vídeos/expenses.gif)
+
 A new Flutter project.
 
 ## Getting Started
