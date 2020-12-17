@@ -1,6 +1,6 @@
 # expenses
 
-![](/home/jamile/Vídeos/expenses.gif)
+![](https://github.com/JamileFerreira/FlutterExpenses/blob/master/expenses.gif)
 
 A new Flutter project.
 
