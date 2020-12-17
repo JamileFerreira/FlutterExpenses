@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![](https://github.com/JamileFerreira/FlutterExpenses/blob/master/expenses.gif)
+![](https://github.com/JamileFerreira/FlutterExpenses/blob/master/assets/expenses.gif)
 
 ## Getting Started
 
