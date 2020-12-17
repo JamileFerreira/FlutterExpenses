@@ -1,8 +1,8 @@
 # expenses
 
-![](https://github.com/JamileFerreira/FlutterExpenses/blob/master/expenses.gif)
-
 A new Flutter project.
+
+![](https://github.com/JamileFerreira/FlutterExpenses/blob/master/expenses.gif)
 
 ## Getting Started
 
@@ -16,3 +16,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
